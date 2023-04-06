@@ -55,19 +55,19 @@ body {
 .small-circle {
   display: inline-block;
   border-radius: 50%;
-  filter: drop-shadow(0 0 5px rgba(255, 243, 131, 0.6));
+  filter: drop-shadow(0 0 5px rgba(255, 243, 131, 0.459));
 }
 
 .small-circle {
   width: 5px;
   height: 5px;
-  background-color: rgb(254, 240, 217);
+  background-color: #c2c207;
 }
 
 .big-circle {
   width: 20px;
   height: 20px;
-  background-color: rgb(179, 0, 0);
+  background-color: rgb(223, 91, 154);
   vertical-align: sub;
 }
 
@@ -75,7 +75,7 @@ body {
   display: inline-block;
   width: 50px;
   height: 5px;
-  background-color: rgba(255, 133, 125, 0.7);
+  background-color: rgba(120, 57, 163, 0.7);
 }
 
 ul {
